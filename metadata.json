@@ -1,0 +1,5 @@
+{
+  "name": "wct12",
+  "description": "An application to book meeting rooms hourly. It provides a visual schedule for each day and prevents booking conflicts.",
+  "requestFramePermissions": []
+}
