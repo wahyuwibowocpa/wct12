@@ -17,12 +17,13 @@ import { getFirestore, collection } from "firebase/firestore";
 
 const firebaseConfig = {
   // PASTE YOUR FIREBASE CONFIG OBJECT HERE
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-  appId: "YOUR_APP_ID",
+  apiKey: "AIzaSyBDex1qV7RryDY8SpMA1Wc9PEQ_4Ce9vNU",
+  authDomain: "fiery-surf-466804-n3.firebaseapp.com",
+  projectId: "fiery-surf-466804-n3",
+  storageBucket: "fiery-surf-466804-n3.firebasestorage.app",
+  messagingSenderId: "203861426121",
+  appId: "1:203861426121:web:4bc8a7634081d91f9af218",
+  measurementId: "G-K4ZQKKG96C"
 };
 
 // =================================================================================
